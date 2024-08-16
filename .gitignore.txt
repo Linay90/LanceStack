@@ -1,0 +1,2 @@
+echo "Frontend/node_modules/" >> .gitignore
+echo "Backend/metadata/" >> .gitignore
